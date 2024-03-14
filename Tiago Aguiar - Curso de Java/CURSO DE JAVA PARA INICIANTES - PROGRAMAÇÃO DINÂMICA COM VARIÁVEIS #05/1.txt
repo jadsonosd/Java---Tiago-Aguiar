@@ -1,0 +1,12 @@
+public class MeuPrimeiroPrograma {
+
+    public static void main(String[] args) {
+        // a seguinte linha é para imprimir um cálculo de 2 + 2
+        // armazenar propriedades e variáveis
+            System.out.println(2 + 2);
+            System.out.println(2 + 6);
+            System.out.println("ola texto");
+            System.out.println(10 / 3);
+        //selecionar e dar um tab, jogar o código para frente, indentação.
+    }
+}

@@ -1,0 +1,13 @@
+public class MeuPrimeiroPrograma {
+
+    public static void main(String[] args) {
+    // computador some dois numeros
+        //        minhaInstrucaoDeImprimir();
+    }
+}
+//    static void minhaInstrucaoDeImprimir() {
+//        System.out.println("Olá mundo, eu sou o primeiro programa do Tiago");
+//
+        //e ai ele vai executar essa instrução, aqui que eu chamei.
+//    }
+//}

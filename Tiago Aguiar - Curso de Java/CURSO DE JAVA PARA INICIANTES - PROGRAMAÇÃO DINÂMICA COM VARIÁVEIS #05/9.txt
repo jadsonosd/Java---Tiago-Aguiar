@@ -1,0 +1,21 @@
+import java.util.Random;
+
+public class MeuPrimeiroPrograma {
+
+    public static void main(String[] args) {
+        // var login = "Ola";
+        var password = "ajshdakjsdh";
+        var number1 = false;
+
+        // variaveis -> tipo: Textos (Strings)
+        // variaveis -> tipo: Numeros (Int)
+        // variaveis -> tipo: Numeros fracionados (Double)
+        // variaveis -> tipo: booleanas (verdadeiro | falso)
+
+        // TIPOS DE DADOS
+        String login = "Ola";
+
+        System.out.println(login);
+        System.out.println(password);
+    }
+}
